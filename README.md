@@ -1,12 +1,15 @@
 # bigbit_query
 1 crime that are not yet cleared
+
 .![image](https://user-images.githubusercontent.com/100956157/156870162-0af23577-9721-4c50-8414-edb258907984.png)
 ![image](https://user-images.githubusercontent.com/100956157/156870257-d07f1a42-45f9-4d1c-8679-4770f5bc5cc9.png)
 
 2 list out the crime under chicago into intimidation or robbery
+
 ![image](https://user-images.githubusercontent.com/100956157/156870399-f53bc180-a172-4aab-9f8c-73ac9b33190b.png)
 
 3.. LIST OUT bikershare station strats with R
+
 ![image](https://user-images.githubusercontent.com/100956157/156887915-ff5628a1-7a74-4c27-b232-b105e8f82cf6.png)
 
 4..	Find out the maximum load weight of each load type from Austin public data related to waste
@@ -33,6 +36,11 @@
 9.join3 find out the id number from property details of 2015 month 3 whose property type matches with  month 4
 
 ![image](https://user-images.githubusercontent.com/100956157/156888641-6215110e-f3f3-4dd3-8f70-3fa4432f8ac7.png)
+
+10.Select property type from both table whose operations are same
+
+![image](https://user-images.githubusercontent.com/100956157/156888789-b3ab5fdf-2b93-4601-9f38-3b40fb17f48c.png)
+
 
 
 
