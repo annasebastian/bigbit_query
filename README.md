@@ -5,3 +5,6 @@
 
 2 list out the crime under chicago into intimidation or robbery
 ![image](https://user-images.githubusercontent.com/100956157/156870399-f53bc180-a172-4aab-9f8c-73ac9b33190b.png)
+
+3.. LIST OUT bikershare station strats with R
+![image](https://user-images.githubusercontent.com/100956157/156887915-ff5628a1-7a74-4c27-b232-b105e8f82cf6.png)
