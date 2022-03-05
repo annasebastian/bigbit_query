@@ -30,4 +30,9 @@
 ![image](https://user-images.githubusercontent.com/100956157/156888556-7948534c-5afc-4f78-ab1a-640e319c7039.png)
 
 
+9.join3 find out the id number from property details of 2015 month 3 whose property type matches with  month 4
+
+![image](https://user-images.githubusercontent.com/100956157/156888641-6215110e-f3f3-4dd3-8f70-3fa4432f8ac7.png)
+
+
 
