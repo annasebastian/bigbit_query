@@ -21,3 +21,8 @@
 
 ![image](https://user-images.githubusercontent.com/100956157/156888394-f480b2ac-65c3-46a9-ad1b-e2c60a8ba095.png)
 
+7.find out the total number of load type in Austin waste management sysytem
+
+![image](https://user-images.githubusercontent.com/100956157/156888486-2b64d7e1-304f-4e2a-b767-27172751c731.png)
+
+
