@@ -25,4 +25,9 @@
 
 ![image](https://user-images.githubusercontent.com/100956157/156888486-2b64d7e1-304f-4e2a-b767-27172751c731.png)
 
+8.Find out the property  details from the records of 1025 month 1 and month2 with coomen price paid
+
+![image](https://user-images.githubusercontent.com/100956157/156888556-7948534c-5afc-4f78-ab1a-640e319c7039.png)
+
+
 
