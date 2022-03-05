@@ -16,3 +16,8 @@
 5.arrange longitude and description of crime data by year.
 
 ![image](https://user-images.githubusercontent.com/100956157/156888214-6c3fc316-f6a8-43f1-be25-8dcbc991686e.png)
+
+6..  find out the minimum load weight of each load type from Austin public data regarding waste management
+
+![image](https://user-images.githubusercontent.com/100956157/156888394-f480b2ac-65c3-46a9-ad1b-e2c60a8ba095.png)
+
